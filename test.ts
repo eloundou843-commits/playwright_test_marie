@@ -1,4 +1,2 @@
 // commentaire
-export class Test{
-    
-}
+export class Test{}

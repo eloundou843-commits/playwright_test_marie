@@ -1,2 +1,4 @@
 // commentaire
-export class Test{}
+export class Test{
+    readonly i:TimeRanges;
+}
